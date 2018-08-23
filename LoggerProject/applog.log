@@ -1,0 +1,5 @@
+2018-08-23 14:57:03,231 - TestCalculatorDemo - WARN - this is warn message
+2018-08-23 14:57:03,231 - TestCalculatorDemo - FATAL - this is fatal message
+2018-08-23 14:57:12,420 - TestCalculatorDemo - ERROR - divisor is 0/ by zero
+2018-08-23 15:30:58,909 - TestCalculatorDemo - WARN - this is warn message
+2018-08-23 15:30:58,910 - TestCalculatorDemo - FATAL - this is fatal message
